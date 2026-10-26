@@ -1,0 +1,7 @@
+# CoppeliaSim backups / recordings
+*.ttt.bak
+*.mp4
+
+# OS
+Thumbs.db
+.DS_Store
