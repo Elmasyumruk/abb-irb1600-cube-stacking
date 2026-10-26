@@ -8,6 +8,10 @@ A 6-axis **ABB IRB 1600** industrial manipulator modelled in **CoppeliaSim** tha
 scene, picks them up and stacks them into a tower — with the inverse kinematics set up **entirely in script**
 (no GUI IK configuration).
 
+![The robot finding and stacking cubes of different sizes (2× speed)](docs/stacking.gif)
+
+*The robot finds every cube, picks them up one by one and builds a tower (recording at 2× speed).*
+
 ## Features
 
 - **Inverse kinematics in code** — `simIK` environment built from the script, solved with a
